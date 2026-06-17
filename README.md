@@ -1,9 +1,9 @@
 # LogonTime
 
-![Latest Release](https://img.shields.io/github/v/release/chililikobo/LogonTime?color=blue)
-![Downloads](https://img.shields.io/github/downloads/chililikobo/LogonTime/total?color=228b22)
-![License](https://img.shields.io/badge/license-Freeware-blueviolet.svg)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+![Latest Release](https://badgen.net/github/release/chililikobo/LogonTime?color=blue)
+![Downloads](https://badgen.net/github/assets-dl/chililikobo/LogonTime?color=228b22)
+![License](https://badgen.net/badge/license/Freeware/purple)
+![Platform](https://badgen.net/badge/platform/Windows/black)
 
 [English](#english) | [日本語](#日本語)
 
