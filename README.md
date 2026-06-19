@@ -1,9 +1,9 @@
 # LogonTime
 
-![Latest Release](https://badgen.net/github/release/chililikobo/LogonTime?color=blue)
-![Downloads](https://badgen.net/github/assets-dl/chililikobo/LogonTime?color=228b22)
-![License](https://badgen.net/badge/license/Freeware/purple)
-![Platform](https://badgen.net/badge/platform/Windows/black)
+[![Latest Release](https://badgen.net/github/release/chililikobo/LogonTime)](https://github.com/chililikobo/LogonTime/releases/latest)
+[![Downloads](https://badgen.net/github/assets-dl/chililikobo/LogonTime)](https://github.com/chililikobo/LogonTime/releases/latest)
+[![License](https://badgen.net/badge/license/Freeware/purple)](#-license--disclaimer)
+[![Platform](https://badgen.net/badge/platform/Windows/black)](https://chililikobo.github.io/logontime.html)
 
 [English](#english) | [日本語](#日本語)
 
