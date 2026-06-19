@@ -3,7 +3,7 @@
 [![Latest Release](https://badgen.net/github/release/chililikobo/LogonTime)](https://github.com/chililikobo/LogonTime/releases/latest)
 [![Downloads](https://badgen.net/github/assets-dl/chililikobo/LogonTime)](https://github.com/chililikobo/LogonTime/releases/latest)
 [![License](https://badgen.net/badge/license/Freeware/purple)](#-license--disclaimer)
-[![Platform](https://badgen.net/badge/platform/Windows/black)](https://chililikobo.github.io/logontime.html)
+[![Platform](https://badgen.net/badge/platform/Windows/black)](#-installation))
 
 [English](#english) | [日本語](#日本語)
 
