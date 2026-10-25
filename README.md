@@ -46,6 +46,14 @@ LogonTime.exe [days] [options]
 * This software is provided "as-is" without any warranty. Use it at your own risk.
 * For more detailed terms, please check the [Official Website](https://chililikobo.github.io/en/).
 
+### Third-Party Licenses (Credits)
+
+This software uses the following open-source libraries:
+
+* System.Diagnostics.EventLog (.NET Runtime) (MIT License)
+
+For full license texts and copyright notices, please see [ThirdPartyNotices.md](ThirdPartyNotices.md).
+
 ---
 
 ## 日本語
@@ -87,3 +95,10 @@ LogonTime.exe [days] [options]
 * 本ソフトウェアは「現状有姿」で提供され、動作保証や損害に対する補償は一切いたしかねます。自己責任でご利用ください。
 * 二次配布等の詳しい利用規約については、[公式サイト](https://chililikobo.github.io/)をご確認ください。
 
+### サードパーティ・ライセンス（クレジット）
+
+本ソフトウェアでは、以下のオープンソース・ライブラリを使用しています。
+
+* System.Diagnostics.EventLog (.NET Runtime) (MIT License)
+
+各ライブラリの著作権表示およびライセンス条文全文については、[ThirdPartyNotices.md](ThirdPartyNotices.md) をご確認ください。
